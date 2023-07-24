@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleHiltApp</string>
+    <string name="user_avatar">user_avatar</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+</resources>
