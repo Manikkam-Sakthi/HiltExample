@@ -1,6 +1,6 @@
-# Android-MVVM-Hilt-Retrofit-Coroutines-Coil
+# Android-MVVM-Hilt-Retrofit-Coroutines-Coil-KotlinDSL
 
-This is a demo application built using 'Hilt' dependency injection framework for Android.
+This is a demo application built using Kotlin DSL.
 
 # Library reference resources:
 
@@ -9,3 +9,4 @@ This is a demo application built using 'Hilt' dependency injection framework for
 3. View Binding: https://developer.android.com/topic/libraries/view-binding
 4. Retrofit: https://square.github.io/retrofit/
 5. Coil: https://coil-kt.github.io/coil/
+6. KotlinDSL: https://developer.android.com/build/migrate-to-kotlin-dsl
