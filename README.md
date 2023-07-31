@@ -1,6 +1,5 @@
 # Android-MVVM-Hilt-Retrofit-Coroutines-Coil
 
-# HiltExampleApp
 This is a demo application built using 'Hilt' dependency injection framework for Android.
 
 # Library reference resources:
